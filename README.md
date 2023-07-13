@@ -21,78 +21,73 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
 
 <h1 align="center">Projects</h1>
 
-<table bordercolor="#66b2b2">
-  
+<table>
   <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">Expense Tracker</h3>
+        <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+        <img src="expense.webp" width="100%"  alt="Rigley 2"/>
+        </a>
+        <p align="center">
+            <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+                <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+                <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+            </a>
+        </p>
+        <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
+        <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Employee Manager</h3>
         <a target="_blank" href="https://employeemanager.vzmars.com/">
             <img src="employee.webp" width="100%"/>
         </a>
-        <br>
         <p align="center">
-        <a href="https://github.com/vzMars/employee-manager-api" target="_blank">
-            <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white
-"/>
-        </a>  
-        <a href="https://employeemanager.vzmars.com/" target="_blank">
-            <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-        </a>
-      </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Expense Tracker</h3>
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="expense.webp" width="100%"  alt="Rigley 2"/>
-        </a>
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white
-"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-  </a>
-      </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+            <a href="https://github.com/vzMars/employee-manager-api" target="_blank">
+                <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>  
+            <a href="https://employeemanager.vzmars.com/" target="_blank">
+                <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+            </a>
+        </p>
+        <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, MongoDB</h4>
+        <p align="center">A full-stack web application that allows companies to track and manage the information of their employees.</p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">MyBookList</h3>
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="book.webp" width="100%" alt="Portfolio"/>
+        <h3 align="center">GameBlog</h3>
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+            <img src="game.webp" width="100%" alt="Matching Cards"/>
         </a>
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white
-"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+            <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+                <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://poke-matchcards.netlify.app" target="_blank">
+                <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+            </a>
+        </p>
+        <h4 align="center">TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
+        <p align="center">A full-stack web application that allows users to create blog posts and share them with other users</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">GameBlog</h3>
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="game.webp" width="100%" alt="Matching Cards"/>
+        <h3 align="center">MyBookList</h3>
+        <a target="_blank" href="https://shawncharles.com">
+            <img src="book.webp" width="100%" alt="Portfolio"/>
         </a>
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white
-"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+            <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+                <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="http://shawncharles.com" target="_blank">
+                <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+            </a>
+        </p>
+        <h4 align="center">JavaScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
+        <p align="center">A full-stack web application that uses the Google Books API and allows users to catalog all of their books.</p>
     </td>
   </tr>
 </table>
