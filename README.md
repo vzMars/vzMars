@@ -29,6 +29,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
         <img src="expense.webp" width="100%"  alt="Rigley 2"/>
         </a>
         <br>
+        <br>
         <p align="center">
             <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
                 <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
@@ -45,6 +46,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
         <a target="_blank" href="https://employeemanager.vzmars.com/" target="_blank">
             <img src="employee.webp" width="100%"/>
         </a>
+        <br>
         <br>
         <p align="center">
             <a href="https://github.com/vzMars/employee-manager-api" target="_blank">
@@ -65,6 +67,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <img src="game.webp" width="100%" alt="Matching Cards"/>
         </a>
         <br>
+        <br>
         <p align="center">
             <a href="https://github.com/vzMars/gameblog" target="_blank">
                 <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
@@ -82,6 +85,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <img src="book.webp" width="100%" alt="Portfolio"/>
         </a>
         <br>
+        <br>
         <p align="center">
             <a href="https://github.com/vzMars/mybooklist" target="_blank">
                 <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
@@ -95,6 +99,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     </td>
   </tr>
 </table>
+<br>
 
 <h1 align="center">Technologies</h1>
 
