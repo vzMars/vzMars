@@ -37,9 +37,9 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <a href="https://expensetracker.vzmars.com/" target="_blank">
                 <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
             </a>
+            <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
+            <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
         </p>
-        <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
-        <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Employee Manager</h3>
@@ -55,9 +55,9 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <a href="https://employeemanager.vzmars.com/" target="_blank">
                 <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
             </a>
+            <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, MongoDB</h4>
+            <p align="center">A full-stack web application that allows companies to track and manage the information of their employees.</p>
         </p>
-        <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, MongoDB</h4>
-        <p align="center">A full-stack web application that allows companies to track and manage the information of their employees.</p>
     </td>
   </tr>
   <tr>
@@ -75,9 +75,9 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <a href="https://gameblog.vzmars.com/" target="_blank">
                 <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
             </a>
+            <h4 align="center">TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
+            <p align="center">A full-stack web application that allows users to create blog posts and share them with other users</p>
         </p>
-        <h4 align="center">TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
-        <p align="center">A full-stack web application that allows users to create blog posts and share them with other users</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">MyBookList</h3>
@@ -93,15 +93,31 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <a href="https://mybooklist.vzmars.com/" target="_blank">
                 <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
             </a>
+            <h4 align="center">JavaScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
+            <p align="center">A full-stack web application that uses the Google Books API and allows users to catalog all of their books.<p>
         </p>
-        <h4 align="center">JavaScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
-        <p align="center">A full-stack web application that uses the Google Books API and allows users to catalog all of their books.</p>
     </td>
   </tr>
 </table>
-<br>
 
 <h1 align="center">Technologies</h1>
+
+<div align="center">
+<img src="https://img.shields.io/badge/javascript-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/typescript-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/react-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/node.js-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/express-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/java-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/spring%20boot-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/postgresql-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/mongodb-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/git-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/html-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/css-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/bootstrap-033385?style=for-the-badge">
+<img src="https://img.shields.io/badge/tailwind%20css-033385?style=for-the-badge">
+</div>
 
 <h1 align="center">Connect</h1>
 
