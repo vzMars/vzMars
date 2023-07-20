@@ -76,7 +76,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
             </a>
             <h4 align="center">TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
-            <p align="center">A full-stack web application that allows users to create blog posts and share them with other users</p>
+            <p align="center">A full-stack web application that allows users to create blog posts and share them with other users.</p>
         </p>
     </td>
     <td width="50%" valign="top">
