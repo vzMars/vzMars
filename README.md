@@ -111,7 +111,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     <img src="https://img.shields.io/badge/java-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/spring%20boot-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/c%23-033385?style=for-the-badge">
-    <img src="https://img.shields.io/badge/.net-033385?style=for-the-badge">
+    <img src="https://img.shields.io/badge/asp.net-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/postgresql-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/mongodb-033385?style=for-the-badge">
