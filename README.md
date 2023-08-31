@@ -24,21 +24,18 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
 <table>
     <tr>
         <td width="50%" valign="top">
-            <h3 align="center">Expense Tracker</h3>
-            <a href="https://expensetracker.vzmars.com/" target="_blank">
-                <img src="expense.webp" width="100%"  alt="Rigley 2"/>
+            <h3 align="center">MangaNotifications</h3>
+            <a href="https://github.com/vzMars/manga-notifications" target="_blank">
+                <img src="manga.webp" width="100%"/>
             </a>
             <br>
             <br>
             <p align="center">
-                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
+                <a href="https://github.com/vzMars/manga-notifications" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <a href="https://expensetracker.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
-                <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
-                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
+                <h4 align="center">JavaScript, Node.js, MongoDB</h4>
+                <p align="center">A self-hosted discord bot that allows users to track a series and receive notifications when new chapters are released.</p>
             </p>
         </td>
         <td width="50%" valign="top">
@@ -62,21 +59,21 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     </tr>
     <tr>
         <td width="50%" valign="top">
-            <h3 align="center">Employee Manager</h3>
-            <a href="https://employeemanager.vzmars.com/" target="_blank">
-                <img src="employee.webp" width="100%"/>
+            <h3 align="center">Expense Tracker</h3>
+            <a href="https://expensetracker.vzmars.com/" target="_blank">
+                <img src="expense.webp" width="100%"  alt="Rigley 2"/>
             </a>
             <br>
             <br>
             <p align="center">
-                <a href="https://github.com/vzMars/employee-manager-api" target="_blank">
+                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>  
-                <a href="https://employeemanager.vzmars.com/" target="_blank">
+                </a>
+                <a href="https://expensetracker.vzmars.com/" target="_blank">
                     <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
                 </a>
-                <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, MongoDB</h4>
-                <p align="center">A full-stack web application that allows companies to track and manage the information of their employees.</p>
+                <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
+                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
             </p>
         </td>
         <td width="50%" valign="top">
