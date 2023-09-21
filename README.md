@@ -24,6 +24,44 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
 <table>
     <tr>
         <td width="50%" valign="top">
+            <h3 align="center">MyBookList</h3>
+            <a href="https://mybooklist.vzmars.com/" target="_blank">
+                <img src="book.webp" width="100%" alt="Portfolio"/>
+            </a>
+            <br>
+            <br>
+            <p align="center">
+                <a href="https://github.com/vzMars/mybooklist-api" target="_blank">
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+                <a href="https://mybooklist.vzmars.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+                </a>
+                <h4 align="center">JavaScript, React, Tailwind CSS, C#, ASP.NET, Microsoft SQL Server</h4>
+                <p align="center">A full-stack web application that allows you to organize and track all the books you have read or want to read.<p>
+            </p>
+        </td>
+        <td width="50%" valign="top">
+            <h3 align="center">Expense Tracker</h3>
+            <a href="https://expensetracker.vzmars.com/" target="_blank">
+                <img src="expense.webp" width="100%"  alt="expense-tracker"/>
+            </a>
+            <br>
+            <br>
+            <p align="center">
+                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+                <a href="https://expensetracker.vzmars.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
+                </a>
+                <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
+                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
             <h3 align="center">MangaNotifications</h3>
             <a href="https://github.com/vzMars/manga-notifications" target="_blank">
                 <img src="manga.webp" width="100%"/>
@@ -39,59 +77,18 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             </p>
         </td>
         <td width="50%" valign="top">
-            <h3 align="center">MyBookList</h3>
-            <a href="https://mybooklist.vzmars.com/" target="_blank">
-                <img src="book.webp" width="100%" alt="Portfolio"/>
+            <h3 align="center">Video Game Sales Data Analysis</h3>
+            <a href="https://github.com/vzMars/video-game-sales-analysis" target="_blank">
+                <img src="game.webp" width="100%" alt="video-game-sales-data"/>
             </a>
             <br>
             <br>
             <p align="center">
-                <a href="https://github.com/vzMars/mybooklist-api" target="_blank">
+                <a href="https://github.com/vzMars/video-game-sales-analysis" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <a href="https://mybooklist.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
-                <h4 align="center">JavaScript, React, Tailwind CSS, C#, ASP.NET, Microsoft SQL Server</h4>
-                <p align="center">A full-stack web application that uses the Google Books API and allows users to catalog all of their books.<p>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" valign="top">
-            <h3 align="center">Expense Tracker</h3>
-            <a href="https://expensetracker.vzmars.com/" target="_blank">
-                <img src="expense.webp" width="100%"  alt="Rigley 2"/>
-            </a>
-            <br>
-            <br>
-            <p align="center">
-                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>
-                <a href="https://expensetracker.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
-                <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
-                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
-            </p>
-        </td>
-        <td width="50%" valign="top">
-            <h3 align="center">GameBlog</h3>
-            <a href="https://gameblog.vzmars.com/" target="_blank">
-                <img src="game.webp" width="100%" alt="Matching Cards"/>
-            </a>
-            <br>
-            <br>
-            <p align="center">
-                <a href="https://github.com/vzMars/gameblog" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>
-                <a href="https://gameblog.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
-                <h4 align="center">TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB</h4>
-                <p align="center">A full-stack web application that allows users to create blog posts and share them with other users.</p>
+                <h4 align="center">Python, Jupyter Notebook</h4>
+                <p align="center">An analysis of a dataset that contains video game sales information to gain an understanding of the video game market.</p>
             </p>
         </td>
     </tr>
