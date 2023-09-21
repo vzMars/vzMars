@@ -79,7 +79,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
         <td width="50%" valign="top">
             <h3 align="center">Video Game Sales Data Analysis</h3>
             <a href="https://github.com/vzMars/video-game-sales-analysis" target="_blank">
-                <img src="game.webp" width="100%" alt="video-game-sales-data"/>
+                <img src="vgdata.webp" width="100%" alt="video-game-sales-data"/>
             </a>
             <br>
             <br>
