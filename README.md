@@ -31,9 +31,6 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 <a href="https://github.com/vzMars/mybooklist-api" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <a href="https://mybooklist.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
                 <h4 align="center">JavaScript, React, Tailwind CSS, C#, ASP.NET, Microsoft SQL Server</h4>
                 <p align="center">A full-stack web application that allows you to organize and track all the books you have read or want to read.<p>
             </p>
