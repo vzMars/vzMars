@@ -49,9 +49,6 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <a href="https://expensetracker.vzmars.com/" target="_blank">
-                    <img src="https://img.shields.io/badge/live%20site-033385?style=for-the-badge"/>
-                </a>
                 <h4 align="center">TypeScript, React, Tailwind CSS, Java, Spring Boot, PostgreSQL</h4>
                 <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
             </p>
@@ -122,8 +119,5 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     </a>
     <a href="https://www.linkedin.com/in/marcosgonzalez1731/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-033385?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://wellfound.com/u/marcosgonzalez" target="_blank">
-        <img src="https://img.shields.io/badge/Wellfound-033385?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white"/>
     </a>
 </p>
