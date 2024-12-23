@@ -60,7 +60,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 <a href="https://github.com/vzMars/manga-notifications" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <h4 align="center">JavaScript, Node.js, MongoDB</h4>
+                <h4 align="center">JavaScript, Node.js, PostgreSQL</h4>
                 <p align="center">A self-hosted discord bot that allows users to track a series and receive notifications when new chapters are released.</p>
             </p>
         </td>
@@ -75,7 +75,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 <a href="https://github.com/vzMars/video-game-sales-analysis" target="_blank">
                     <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
-                <h4 align="center">Python, Jupyter Notebook</h4>
+                <h4 align="center">Python</h4>
                 <p align="center">An analysis of a dataset that contains video game sales information to gain an understanding of the video game market.</p>
             </p>
         </td>
@@ -97,7 +97,6 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     <img src="https://img.shields.io/badge/Python-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/postgresql-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-033385?style=for-the-badge">
-    <img src="https://img.shields.io/badge/mongodb-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/git-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/html-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/css-033385?style=for-the-badge">
