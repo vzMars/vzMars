@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <a href="https://marcosgonzalez.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/portfolio-033385?style=for-the-badge&logo=canonical&logoColor=white"/>
+        <img src="https://img.shields.io/badge/portfolio-033385?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/marcosgonzalez1731/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-033385?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -108,7 +108,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
 
 <p align="center"> 
     <a href="https://marcosgonzalez.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-033385?style=for-the-badge&logo=canonical&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Portfolio-033385?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/marcosgonzalez1731/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-033385?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
