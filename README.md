@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/portfolio-033385?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/marcosgonzalez1731/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-033385?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/linkedin-033385?style=for-the-badge"/>
     </a>
 </p>
 
@@ -26,7 +26,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <br>
             <p align="center">
                 <a href="https://github.com/vzMars/mybooklist-api" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
                 </a>
                 <h4 align="center">JavaScript, React, C#, ASP.NET, Microsoft SQL Server</h4>
                 <p align="center">A full-stack web application that allows you to organize and track all the books you have read or want to read.<p>
@@ -41,7 +41,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <br>
             <p align="center">
                 <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
                 </a>
                 <h4 align="center">TypeScript, React, Java, Spring Boot, PostgreSQL</h4>
                 <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
@@ -58,7 +58,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <br>
             <p align="center">
                 <a href="https://github.com/vzMars/manga-notifications" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
                 </a>
                 <h4 align="center">JavaScript, Node.js, PostgreSQL</h4>
                 <p align="center">A self-hosted discord bot that allows users to track a series and receive notifications when new chapters are released.</p>
@@ -73,7 +73,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             <br>
             <p align="center">
                 <a href="https://github.com/vzMars/video-game-sales-analysis" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge&logo=github&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
                 </a>
                 <h4 align="center">Python</h4>
                 <p align="center">An analysis of a dataset that contains video game sales information to gain an understanding of the video game market.</p>
@@ -111,6 +111,6 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
         <img src="https://img.shields.io/badge/Portfolio-033385?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/marcosgonzalez1731/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-033385?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/linkedin-033385?E77B5.svg?&style=for-the-badge"/>
     </a>
 </p>
