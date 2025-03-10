@@ -33,23 +33,6 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
             </p>
         </td>
         <td width="50%" valign="top">
-            <h3 align="center">Expense Tracker</h3>
-            <a href="https://expensetracker.vzmars.com/" target="_blank">
-                <img src="expense.webp" width="100%"  alt="expense-tracker"/>
-            </a>
-            <br>
-            <br>
-            <p align="center">
-                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
-                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
-                </a>
-                <h4 align="center">TypeScript, React, Java, Spring Boot, PostgreSQL</h4>
-                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" valign="top">
             <h3 align="center">MangaNotifications</h3>
             <a href="https://github.com/vzMars/manga-notifications" target="_blank">
                 <img src="manga.webp" width="100%"/>
@@ -62,6 +45,23 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
                 </a>
                 <h4 align="center">JavaScript, Node.js, PostgreSQL</h4>
                 <p align="center">A self-hosted discord bot that allows users to track a series and receive notifications when new chapters are released.</p>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3 align="center">Expense Tracker</h3>
+            <a href="https://expensetracker.vzmars.com/" target="_blank">
+                <img src="expense.webp" width="100%"  alt="expense-tracker"/>
+            </a>
+            <br>
+            <br>
+            <p align="center">
+                <a href="https://github.com/vzMars/expense-tracker-api" target="_blank">
+                    <img src="https://img.shields.io/badge/repo-033385?style=for-the-badge"/>
+                </a>
+                <h4 align="center">TypeScript, React, Java, Spring Boot, PostgreSQL</h4>
+                <p align="center">A full-stack web application where users can manage, track, and visualize all of their transactions.</p>
             </p>
         </td>
         <td width="50%" valign="top">
