@@ -9,7 +9,7 @@
     </a>
 </p>
 
-Hi, I'm Marcos. I'm a full stack software engineer who loves building web applications and was born and raised in the NYC area. I am always seeking new opportunities to apply my skills and grow as a developer, feel free to reach me at [marcosgonzalez1731@gmail.com](mailto:marcosgonzalez1731@gmail.com)
+Hi, I'm Marcos. I'm a software engineer who was born and raised in the NYC area. I am always seeking new opportunities to apply my skills and grow as a developer, feel free to reach me at [marcosgonzalez1731@gmail.com](mailto:marcosgonzalez1731@gmail.com)
 
 See [my portfolio](https://marcosgonzalez.dev/) for more information!
 
