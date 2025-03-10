@@ -96,6 +96,7 @@ See [my portfolio](https://marcosgonzalez.dev/) for more information!
     <img src="https://img.shields.io/badge/.net-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/Python-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/postgresql-033385?style=for-the-badge">
+    <img src="https://img.shields.io/badge/mysql-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/git-033385?style=for-the-badge">
     <img src="https://img.shields.io/badge/html-033385?style=for-the-badge">
